@@ -1,16 +1,10 @@
-# todogetx
+<h1>Todo Apps with Getx and Sqflite</h1>
+Learn from <a href= "FlutterAwesome.com"> flutterAwesome </a>
 
-A new Flutter project.
+Overview .. 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/22880026/151735830-65fa8112-123a-459a-9003-4a4691854c1c.png" width =200 />
+  <img src ="https://user-images.githubusercontent.com/22880026/151735837-53f90c54-45d4-4afe-bfbd-7cb2dd015e4a.png" width =200 />
+  <img src ="https://user-images.githubusercontent.com/22880026/151735840-5e9ac82c-6a01-47e0-94bb-543960e41d78.png" width =200 />
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
